@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 /bin/bash echo school
 /bin/school echo school
 /bin/bash echo school
 /bin/bash echo school
 /bin/bash echo school
 /bin/bash echo school
+=======
+/bin/bash
+The school is open
+>>>>>>> update_script
